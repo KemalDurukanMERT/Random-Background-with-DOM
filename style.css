@@ -8,6 +8,7 @@ h1 {
   text-align: center;
   background-color: black;
   color: white;
+  padding: 1.5rem;
 }
 
 .gamearea {
@@ -18,7 +19,7 @@ h1 {
 .catch-box {
   width: 150px;
   height: 100px;
-  /* text-align: center; */
+  margin: 1rem;
   border: 3px solid red;
   background-color: white;
   position: absolute;
